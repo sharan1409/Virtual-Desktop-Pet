@@ -160,15 +160,6 @@ Or add a YouTube link:
 
 ---
 
-## 👨‍💻 Author
-
-**Teicho**
-
-Mechatronics Engineering Student  
-Python Developer | AI Enthusiast | Anime Fan
-
----
-
 ## 📜 License
 
 This project is intended for educational and personal use.
