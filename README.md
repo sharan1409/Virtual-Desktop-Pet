@@ -160,6 +160,3 @@ Or add a YouTube link:
 
 ---
 
-## 📜 License
-
-This project is intended for educational and personal use.
