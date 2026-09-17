@@ -1,6 +1,6 @@
 # 🏴‍☠️ One Piece Virtual Desktop Pet — Chopper Edition
 
-A desktop pet featuring **Tony Tony Chopper** (or Luffy!) that lives on your screen.
+A desktop pet featuring **Tony Tony Chopper** that lives on your screen.
 
 ## Features
 - 🖼️ **Real Chopper images** for sad / happy moods (your uploaded PNGs/GIFs)
