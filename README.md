@@ -13,10 +13,6 @@ A desktop companion inspired by **Tony Tony Chopper** from One Piece. The pet li
 - Mood-based behavior system
 - Happy and Sad states
 
-### 👀 Eye Tracking
-- Pupils dynamically follow the mouse cursor
-- Creates a more realistic desktop companion experience
-
 ### 😊 Mood System
 - Becomes happy when interacted with
 - Turns sad when ignored for a period of time
@@ -106,46 +102,6 @@ python main.py
 | Left Click | Interact with Pet |
 | Right Click | Open Options Menu |
 | Tray Icon | Restore Hidden Pet |
-
----
-
-## 📸 Screenshots
-
-### Chopper Happy Mode
-
-Add image here:
-
-```markdown
-![Happy Mode](images/chopper_happy.png)
-```
-
-### Chopper Sad Mode
-
-```markdown
-![Sad Mode](images/chopper_sad.png)
-```
-
-### AI Chat Window
-
-```markdown
-![Chat Window](images/chat_window.png)
-```
-
----
-
-## 🎥 Demo
-
-Add a GIF:
-
-```markdown
-![Demo](images/demo.gif)
-```
-
-Or add a YouTube link:
-
-```markdown
-[Watch Demo Video](YOUR_VIDEO_LINK)
-```
 
 ---
 
