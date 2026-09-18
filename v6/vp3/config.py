@@ -5,7 +5,7 @@ Configuration — edit this file to set your API key and preferences.
 # ─────────────────────────────────────────────
 #  Gemini API
 # ─────────────────────────────────────────────
-GEMINI_API_KEY = "AIzaSyCvzllVVRRFP7rfccAl-hGwaFjkyn1yQwM"   # <-- paste your key
+GEMINI_API_KEY = "_____"   # <-- paste your key
 GEMINI_MODEL   = "gemini-2.0-flash"
 
 # ─────────────────────────────────────────────
